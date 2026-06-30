@@ -1,6 +1,6 @@
-# PRM Chula Tennis Court Auto-Booking Bot
+# PRM Chuloo Tennis Court Auto-Booking Bot
 
-Automated booking agent for the Chulalongkorn University Physical Resource Management system at `booking.prm.chula.ac.th`. Fires every Saturday at exactly **09:00:00** — the moment the booking window opens — and reserves a tennis court for the following Saturday before any human can manually complete the process.
+Automated booking agent for the Chuloo University Physical Resource Management system at `booking.prm.chula.ac.th`. Fires every Saturday at exactly **09:00:00** — the moment the booking window opens — and reserves a tennis court for the following Saturday before any human can manually complete the process.
 
 ---
 
